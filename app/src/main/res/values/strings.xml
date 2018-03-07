@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndmeteSalvestamine</string>
+    <string name="info">Faili salvestamine ja lugemine</string>
+    <string name="sisu">jou</string>
+    <string name="andmed">Salvesta andmed</string>
+    <string name="kuva">Kuva andmed</string>
+    <string name="edasi">edasi</string>
+</resources>
